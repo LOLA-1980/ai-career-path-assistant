@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# ai-career-path-assistant
+AI-powered career roadmap assistant using React, Python, and Generative AI APIs.
+
+
+# AI Career Path Assistant
+
+AI-powered career roadmap assistant built with React, Python, and Generative AI APIs.
+
+## Features
+- Personalized career roadmaps
+- AI-generated learning recommendations
+- Interactive frontend
+
+## Tech Stack
+- React
+- Flask
+- Gemini API
+
+## Status
+MVP in progress
+>>>>>>> a9927d8e62a92d7f64dbc7cfae712b0a038ad2cf
